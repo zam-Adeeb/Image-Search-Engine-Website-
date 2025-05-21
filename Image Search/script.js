@@ -1,4 +1,4 @@
-const accessKey="ScG9s65MKJr87tsmzZ1w1MzQj_3pZRz3rNTwJRPZH5g";
+const accessKey="API Key";
 
 const searchfrom=document.getElementById("search-form");
 const searchbox=document.getElementById("search-box");
